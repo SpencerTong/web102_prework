@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/Kqgpw98' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/prework_web102_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap (https://www.cockos.com/licecap/)
@@ -39,6 +39,7 @@ Describe any challenges encountered while building the app:
 - did a lot of research on the documentation of the utilized methods (reduced, filter) and often took a while to completely understand
 - working within prewritten code (i.e understanding structure of HTML and the prewritten classes/id's assigned to elements)
 - general debugging of careless but sometimes hard to spot mistakes (naming the wrong property of a game object, forgetting to append elements to document)
+- creating the gif in a format such that it could be pasted into the img src....
 
 ## License
 
